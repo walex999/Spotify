@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
-print("Hello, World!")
 
-print("TEST")
+import pandas as pd
+from dotenv import load_dotenv
+from os import
+
+
+a=load_dotenv("./spotify.env")
+print(a) 
