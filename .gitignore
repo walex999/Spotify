@@ -1,2 +1,5 @@
-# Environment file that stores the different paths
-.env
+# Folder downloaded from spotify
+Spotify Account Data
+
+# Environment variables 
+*.env
